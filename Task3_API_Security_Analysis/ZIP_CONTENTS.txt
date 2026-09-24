@@ -1,0 +1,13 @@
+Task 3 ZIP verification manifest
+
+Included:
+- api_sec_tool.py
+- requirements.txt
+- README.md
+- .gitignore
+- run.sh
+- deliverables/API_Security_Risk_Analysis_Report.md
+- deliverables/API_Security_Risk_Analysis_Report.pdf
+- deliverables/remediation_guide.md
+- screenshots/README.txt
+- test_targets/sample_targets.txt

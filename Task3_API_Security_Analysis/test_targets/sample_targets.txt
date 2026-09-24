@@ -1,0 +1,13 @@
+# Sample API Targets for Testing
+# Only test APIs you own or that are explicitly public test APIs.
+
+https://jsonplaceholder.typicode.com/posts/1
+https://jsonplaceholder.typicode.com/users
+https://httpbin.org/get
+https://httpbin.org/headers
+https://api.github.com
+https://api.publicapis.org/entries
+https://catfact.ninja/fact
+https://official-joke-api.appspot.com/random_joke
+https://dog.ceo/api/breeds/list/all
+https://api.coindesk.com/v1/bpi/currentprice.json
